@@ -1,6 +1,6 @@
 # Overview
 
-Cerebellum is an scaleable, open source, drop-in infrastructure for realtime applications. That's a mouthful! 
+Cerebellum is a scaleable, open-source, drop-in infrastructure for realtime applications. That's a mouthful! 
 
 In short: **we help you ship WebSocket-based realtime applications faster and more reliably**.
 
