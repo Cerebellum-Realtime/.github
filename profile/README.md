@@ -52,7 +52,7 @@ To delete the Cerebellum infrastructure:
 - `cerebellum destroy`
 
 #### Fun Facts
-Cerebellum was built by a group of four software engineers with a passion for coding and real-time applications. Together, we cover all the major cities in Texas—Dallas, Houston, and Austin—as well as one Canadian in Toronto. Our Canadian team member has since become an expert in the use of "y'all" and the mecca of "gastinations," Buc-ee's. In return, he has educated us on the benefits of poutine, maple syrup, and Tim Hortons.
+Cerebellum was built by a group of four software engineers with a passion for coding and realtime applications. Together, we cover all the major cities in Texas—Dallas, Houston, and Austin—as well as one Canadian in Toronto. Our Canadian team member has since become an expert in the use of "y'all" and the mecca of "gastinations," Buc-ee's. In return, he has educated us on the benefits of poutine, maple syrup, and Tim Hortons.
 
 <!--
 
