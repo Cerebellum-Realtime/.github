@@ -51,7 +51,7 @@ If at any point you want to stop the local development environment:
 To delete the Cerebellum infrastructure:
 - `cerebellum destroy`
 
-### Fun Facts
+#### Fun Facts
 Cerebellum was built by a group of four software engineers with a passion for coding and realtime applications. Together, we cover all the major cities in Texas (Dallas, Houston, Austin), as well as one Canadian (Toronto). He has since become an expert on useage of the word "y'all" and the mecca of "gastinations", Bucees. He has responded in kind by educating us on the benefits of poutine, maple syrup, and Tim Hortons. 
 
 <!--
