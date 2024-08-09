@@ -7,10 +7,22 @@ To learn more about Cerebellum's development in detail, read our case study [her
 ## At a Glance
 
 Cerebellum is made up of several tools. Take a look at their READMEs, linked below:
-- [CLI](https://github.com/Cerebellum-Realtime/cli): for deploying Cerebellum's infrastructure in just a few clicks
-- [Client Library](https://github.com/Cerebellum-Realtime/clientLibrary): for interacting with Cerebellum on the front end
-- [CDK](https://github.com/Cerebellum-Realtime/cdk): to see the AWS infrastructure that makes up Cerebellum
-- [Server](https://github.com/Cerebellum-Realtime/server): to see the back-end server that powers Cerebellum
+- [CLI](https://github.com/Cerebellum-Realtime/cli): deploy Cerebellum's infrastructure in just a few clicks
+- [Client Library](https://github.com/Cerebellum-Realtime/clientLibrary): interact with Cerebellum on the front end
+- [CDK](https://github.com/Cerebellum-Realtime/cdk): provision AWS infrastructure that makes up Cerebellum
+- [Server](https://github.com/Cerebellum-Realtime/server): manage the back-end server that powers Cerebellum
+
+## Getting Started
+### Prerequisites
+
+To create a Cerebellum application, the following must be installed/configured:
+- Node.js
+- AWS (see Cerebellum CLI for details)
+- React (if using Cerebellum React hooks)
+
+Once you have these dependencies installed, you can use the Cerebellum CLI tool to create a Cerebellum application. Learn more about the CLI tool [here](https://github.com/Cerebellum-Realtime/cli).
+- Use `npm install -g @cerebellum/cli` to install the Cerebellum CLI tool
+- Use `cerebellum --help` to view a few useful commands for creating Cerebellum applications
 <!--
 
 **Here are some ideas to get you started:**
