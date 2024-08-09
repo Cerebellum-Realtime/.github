@@ -11,7 +11,7 @@ To learn more about Cerebellum's development in detail, read our case study [her
 Cerebellum is made up of several tools. Take a look at their READMEs, linked below:
 - [CLI](https://github.com/Cerebellum-Realtime/cli): deploy Cerebellum's infrastructure in just a few clicks
 - [Client Library](https://github.com/Cerebellum-Realtime/clientLibrary): interact with Cerebellum on the front end
-- [CDK](https://github.com/Cerebellum-Realtime/cdk): provision AWS infrastructure that makes up Cerebellum
+- [CDK](https://github.com/Cerebellum-Realtime/cdk): provision the AWS infrastructure that makes up Cerebellum
 - [Server](https://github.com/Cerebellum-Realtime/server): manage the back-end server that powers Cerebellum
 
 To take a look at some examples/code samples from applications built with Cerebellum, take a look at:
