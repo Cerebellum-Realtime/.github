@@ -14,7 +14,7 @@ Cerebellum is made up of several tools. Take a look at their READMEs, linked bel
 - [CDK](https://github.com/Cerebellum-Realtime/cdk): provision the AWS infrastructure that makes up Cerebellum
 - [Server](https://github.com/Cerebellum-Realtime/server): manage the back-end server that powers Cerebellum
 
-To take a look at some examples/code samples from applications built with Cerebellum, take a look at:
+To see some examples/code samples from applications built with Cerebellum, take a look at:
 - [Realtime chat application](https://github.com/Cerebellum-Realtime/sample_app)
 - [Realtime collaborative editor](https://github.com/Cerebellum-Realtime/collabEditor)
 
