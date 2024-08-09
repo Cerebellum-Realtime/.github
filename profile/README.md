@@ -1,6 +1,8 @@
 # Overview
 
-Cerebellum is an scaleable, open source, drop-in infrastructure for realtime applications. That's a mouthful! In short: we help you ship WebSocket-based realtime applications faster and more reliably.
+Cerebellum is an scaleable, open source, drop-in infrastructure for realtime applications. That's a mouthful! 
+
+In short: we help you ship WebSocket-based realtime applications faster and more reliably.
 
 To learn more about Cerebellum's development in detail, read our case study [here](https://docs.google.com/document/d/1WC1yrta0Rao3_08TVQburuwODeZ3hy00GHWGn716NXE/edit).
 
@@ -29,9 +31,11 @@ There are two options for creating Cerebellum applications:
 - Use `cerebellum create` to create a new directory and deploy Cerebellum's infrastructure to AWS
 - Use `cerebellum init` to deploy Cerebellum's infrastructure in the current directory
 
-Either of these commands will spin up an infrastructure that is configured to meet the specific needs of realtime applications. Cerebellum provides a preconfigured WebSocket server out of the box. 
+Either of these commands will spin up an infrastructure that is configured to meet the specific needs of realtime applications. Cerebellum provides a preconfigured [WebSocket server](https://github.com/Cerebellum-Realtime/server) out of the box. You can use the [Cerebellum Client Library](https://github.com/Cerebellum-Realtime/clientLibrary) to interact with our server, or you can bring your own WebSocket server and only use Cerebellum for its infrastructure.
 
 Once the Cerebellum infrastructure deployment is complete, you can get started developing right away.
+- Use `npm install @cerebellum/sdk` to install the Cerebellum Client Library
+- Use `npx cerebellum-start` to run the Cerebellum Docker image and dependencies for local development
 
 
 <!--
