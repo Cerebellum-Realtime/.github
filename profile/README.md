@@ -15,8 +15,8 @@ Cerebellum is made up of several tools. Take a look at their READMEs, linked bel
 - [Server](https://github.com/Cerebellum-Realtime/server): manage the back-end server that powers Cerebellum
 
 To see some examples/code samples from applications built with Cerebellum, take a look at:
-- [Realtime chat application](https://github.com/Cerebellum-Realtime/sample_app)
-- [Realtime collaborative editor](https://github.com/Cerebellum-Realtime/collabEditor)
+- [Realtime chat application](https://github.com/Cerebellum-Realtime/messaging_application_demo)
+- [Realtime collaborative editor](https://github.com/Cerebellum-Realtime/collaborative_editor_demo)
 
 ## Getting Started
 ### Prerequisites
