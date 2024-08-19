@@ -1,16 +1,16 @@
 # Overview
 
-Cerebellum is a scaleable, open-source, drop-in infrastructure for realtime applications. That's a mouthful! 
+Cerebellum is a scalable, open-source, drop-in infrastructure for realtime applications.
 
 In short: **we help you ship WebSocket-based realtime applications faster and more reliably**.
 
-To learn more about Cerebellum's development in detail, read our case study [here](https://docs.google.com/document/d/1WC1yrta0Rao3_08TVQburuwODeZ3hy00GHWGn716NXE/edit).
+To learn more about Cerebellum's development in detail, read our case study [here](https://cerebellum-realtime.github.io/).
 
 ## At a Glance
 
 Cerebellum is made up of several tools. Take a look at their READMEs, linked below:
 - [CLI](https://github.com/Cerebellum-Realtime/cli): deploy Cerebellum's infrastructure in just a few clicks
-- [Client SDK](https://github.com/Cerebellum-Realtime/clientLibrary): interact with Cerebellum on the front end
+- [Client SDK](https://github.com/Cerebellum-Realtime/clientSDK): interact with Cerebellum on the front end
 - [CDK](https://github.com/Cerebellum-Realtime/cdk): provision the AWS infrastructure that makes up Cerebellum
 - [Server](https://github.com/Cerebellum-Realtime/server): manage the back-end server that powers Cerebellum
 
@@ -35,7 +35,7 @@ There are two options for creating Cerebellum applications:
 - `cerebellum create` to create a new directory and deploy Cerebellum's infrastructure to AWS
 - `cerebellum init` to deploy Cerebellum's infrastructure in the current directory
 
-Either of these commands will spin up an infrastructure that is configured to meet the specific needs of realtime applications. Cerebellum provides a preconfigured [WebSocket server](https://github.com/Cerebellum-Realtime/server) out of the box. You can use the [Cerebellum Client SDK](https://github.com/Cerebellum-Realtime/clientLibrary) to interact with our server, or you can bring your own WebSocket server and only use Cerebellum for its infrastructure.
+Either of these commands will spin up an infrastructure that is configured to meet the specific needs of realtime applications. Cerebellum provides a preconfigured [WebSocket server](https://github.com/Cerebellum-Realtime/server) out of the box. You can use the [Cerebellum Client SDK](https://github.com/Cerebellum-Realtime/clientSDK) to interact with our server, or you can bring your own WebSocket server and only use Cerebellum for its infrastructure.
 
 Once the Cerebellum infrastructure deployment is complete, you can get started developing right away.
 - Create a React or vanilla JavaScript application to power your front end
